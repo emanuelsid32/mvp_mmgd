@@ -1,13 +1,14 @@
 # MVP Engenharia de Dados: Micro e Minigeração Distribuída na Região Sul
 
 **Aluno:** Emanuel Sidoski
+
 **Curso:** Pós-graduação em Ciência de Dados e Analytics, PUC-Rio (sprint de Engenharia de Dados)
-**Plataforma:** Databricks Free Edition
+
 **Repositório:** https://github.com/emanuelsid32/mvp_mmgd
 
 ---
 
-## Contexto de Negócio e Perguntas (Etapa 2 e 4.1)
+## Contexto de Negócio e Perguntas
 
 ### Problema
 
@@ -628,18 +629,7 @@ respostas se complementam:
 
 ### Objetivos atingidos
 
-Considero que o objetivo do MVP foi atingido. Consegui montar o pipeline
-completo na nuvem, do CSV bruto da ANEEL até um modelo dimensional na
-camada Gold, passando pelas três camadas da arquitetura medalhão, com as
-tabelas persistidas e documentadas no Unity Catalog. As 7 perguntas de
-negócio definidas no início foram respondidas.
 
-Algumas respostas ficaram parciais. Na pergunta 6, a participação dos
-fabricantes é um valor mínimo, porque o campo de fabricante é texto livre
-e o mesmo fabricante aparece com vários nomes. Na pergunta 2, levantei a
-hipótese de que o porte maior dos sistemas no Paraná vem das classes
-rural e comercial do interior, mas não fiz o cruzamento de estado com
-classe de consumo para confirmar.
 
 ### Dificuldades
 
