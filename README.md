@@ -627,9 +627,15 @@ respostas se complementam:
 
 ## Autoavaliação
 
+Este projeto foi desafiador, mas muito positivo. Por estar diretamente ligado à minha área de atuação,
+eficiência energética, geração distribída e sistemas de energia, pude unir o que aprendi na pós com o 
+conhecimento prático do setor, o que tornou cada etapa mais interessante, principalmente na hora de 
+interpretar os resultados.Tive dificuldades ao longo do caminho, tanto com a qualidade dos dados 
+quanto com as ferramentas, mas com o auxílio das tecnologias disponíveis acredito que consegui superar 
+cada uma delas. Estou feliz com o resultado e tenho certeza de que ele foi positivo, tanto pelo 
+aprendizado quanto pelo resultado final.
+
 ### Objetivos atingidos
-
-
 
 ### Dificuldades
 
